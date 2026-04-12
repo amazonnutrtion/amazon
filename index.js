@@ -406,7 +406,7 @@ const products = [
         featured: false
     },
 
-   {
+    {
         id: 134,
         title: "GLUTAMINE POWDER ",
         category: "protein",
@@ -611,40 +611,6 @@ const products = [
             "141 SERVINGS ",
             "EXTREME MILK CHOCOLATE FLAVORED",
             ""
-        ],
-        featured: false
-    },
-   {
-        id: 4,
-        title: "OPTIMUM NUTRION AMINO ",
-        category: "protein",
-        description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
-        originalPrice: "",
-        image: "s4.jpg",
-        specifications: [
-            "FULL AMINO ACID SPECTRUM ",
-            "320 TABLETS ",
-            "160 SERVINGS ",
-            "DIETARY SUPPLEMNT ",
-            "200 servings per container"
-        ],
-        featured: false
-    },
-   {
-        id:146,
-        title: "ESSENTIAL AMINO ENERGY",
-        category: "protein",
-        description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
-        originalPrice: "",
-        image: "146jpg",
-        specifications: [
-            "5G AMINO ACIDS",
-            "0G SUGAR ",
-            "CAFFINE FROM NATURAL SOURCES ",
-            "TANGERINE WAVE FLAVORED ",
-            "30 SERVINGS"
         ],
         featured: false
     },
@@ -860,7 +826,7 @@ const products = [
             "Cancel Or Pause Your Subscription Anytime",
             "Always Free Shipping + 90 Day Money Back Guarantee",
             "Save 20% on Shipment 3 And Beyond",
-            "21 PACKS"
+            "21 PACKS",
         ],
         
     },
