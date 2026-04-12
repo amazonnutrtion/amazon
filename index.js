@@ -438,7 +438,7 @@ const products = [
             "BANNED FREE",
             "44 SERVINGS ",
             "25G PROTEIN",
-            "5.5 BCAA",
+            "5.5 BCAA"
         ],
         featured: false
     },
@@ -472,7 +472,7 @@ const products = [
             "60 SERVINGS ",
             "VITAMIN ",
             " MINERAL SUPPORT FOR ACTIVE ADULTS ",
-            "PROTENT COMBINATION OF ZINC MAGBESIUM AND VITAMIN B6"
+            "PROTENT COMBINATION OF ZINC MAGBESIUM AND VITAMIN B6",
             "DIETARY SUPPLEMENT"
         ],
         featured: false
@@ -507,7 +507,7 @@ const products = [
             "30G PROTEIN,
             "15.5G ESSENTIAL AMINO ACID",
             "8.8G BCAA ",
-            "TURBO CHOCOLAT FLAVORED"
+            "TURBO CHOCOLAT FLAVORED",
             "20 SERVINGS"
         ],
         featured: false
@@ -860,7 +860,7 @@ const products = [
             "Cancel Or Pause Your Subscription Anytime",
             "Always Free Shipping + 90 Day Money Back Guarantee",
             "Save 20% on Shipment 3 And Beyond",
-            "21 PACKS",
+            "21 PACKS"
         ],
         
     },
