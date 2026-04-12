@@ -504,7 +504,7 @@ const products = [
         image: "139.jpg",
         specifications: [
             "FOR MUSCLE SUPPORT AND RECOVERY",
-            "30G PROTEIN,
+            "30G PROTEIN",
             "15.5G ESSENTIAL AMINO ACID",
             "8.8G BCAA ",
             "TURBO CHOCOLAT FLAVORED",
