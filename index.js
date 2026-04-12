@@ -2590,7 +2590,7 @@ const dropdowns = document.querySelectorAll('.dropdown');
 const categoryTranslations = {
     protein: "OPTIMUM NUTRION",
     creatine: "NUTREX RESEARCH",
-    energy: "ANIMAL",
+    energy: "UNIVERSAL",
     amino: "DYMATIZ",
     muscletech: "EXTRIFIT",
     bsn: "GAT SPORT",
@@ -3051,7 +3051,7 @@ document.addEventListener('DOMContentLoaded', function() {
 const dropdownCompaniesList = [
     "OPTIMUM NUTRION",
     "NUTREX RESEARCH", 
-    "ANIMAL",
+    "UNIVERSAL",
     "DYMATIZ",
     "EXTRIFIT",
     "GAT SPORT",
