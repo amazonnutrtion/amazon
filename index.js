@@ -3082,7 +3082,7 @@ dropdownMenuItems.forEach(item => {
         
         if (companyName === "OPTIMUM NUTRION") targetCategory = "protein";
         else if (companyName === "NUTREX RESEARCH") targetCategory = "creatine";
-        else if (companyName === "ANIMAL") targetCategory = "energy";
+        else if (companyName === "UNIVERSAL") targetCategory = "energy";
         else if (companyName === "DYMATIZ") targetCategory = "amino";
         else if (companyName === "EXTRIFIT") targetCategory = "EXTRIFIT";
         else if (companyName === "GAT SPORT") targetCategory = "GAT SPORT";
