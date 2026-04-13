@@ -887,7 +887,7 @@ const products = [
     {
         id: 20,
         title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
+        category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
         price: "$84.99",
         originalPrice: "$94.99",
@@ -905,7 +905,7 @@ const products = [
      {
         id: 21,
         title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
+        category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
         price: "$84.99",
         originalPrice: "$94.99",
@@ -923,7 +923,7 @@ const products = [
      {
         id: 22,
         title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
+        category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
         price: "$84.99",
         originalPrice: "$94.99",
@@ -941,7 +941,7 @@ const products = [
      {
         id: 23,
         title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
+        category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
         price: "$84.99",
         originalPrice: "$94.99",
@@ -959,7 +959,7 @@ const products = [
      {
         id: 24,
         title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
+        category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
         price: "$84.99",
         originalPrice: "$94.99",
@@ -977,7 +977,7 @@ const products = [
      {
         id: 25,
         title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
+        category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
         price: "$84.99",
         originalPrice: "$94.99",
@@ -996,7 +996,7 @@ const products = [
      {
         id: 26,
         title: "EXTRIFIT ",
-        category: "EXTRIFIT",
+        category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
         price: "$84.99",
         originalPrice: "$94.99",
