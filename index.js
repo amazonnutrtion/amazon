@@ -1012,194 +1012,7 @@ const products = [
     },
 
 
-     {
-        id: 27,
-        title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
-        description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
-        image: "s27.jpg",
-        specifications: [
-            "30g premium protein blend",
-            "3g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-            "62 servings per container"
-        ],
-        featured: false
-    },
-
-
-     {
-        id: 28,
-        title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
-        description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
-        image: "s28.jpg",
-        specifications: [
-            "30g premium protein blend",
-            "3g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-            "62 servings per container"
-        ],
-        featured: false
-    },
-
-
-     {
-        id: 29,
-        title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
-        description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
-        image: "s29.jpg",
-        specifications: [
-            "30g premium protein blend",
-            "3g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-            "62 servings per container"
-        ],
-        featured: false
-    },
-
-
-     {
-        id: 30,
-        title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
-        description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
-        image: "s30.jpg",
-        specifications: [
-            "30g premium protein blend",
-            "3g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-            "62 servings per container"
-        ],
-        featured: false
-    },
-
-     {
-        id: 31,
-        title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
-        description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
-        image: "s31.jpg",
-        specifications: [
-            "30g premium protein blend",
-            "3g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-            "62 servings per container"
-        ],
-        featured: false
-    },
-
-
-     {
-        id: 32,
-        title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
-        description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
-        image: "s32.jpg",
-        specifications: [
-            "30g premium protein blend",
-            "3g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-            "62 servings per container"
-        ],
-        featured: false
-    },
-
-
-     {
-        id: 34,
-        title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
-        description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
-        image: "s34.jpg",
-        specifications: [
-            "30g premium protein blend",
-            "3g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-            "62 servings per container"
-        ],
-        featured: false
-    },
-
-
-     {
-        id: 35,
-        title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
-        description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
-        image: "s35.jpg",
-        specifications: [
-            "30g premium protein blend",
-            "3g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-            "62 servings per container"
-        ],
-        featured: false
-    },
-
-
-     {
-        id:36,
-        title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
-        description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
-        image: "s36.jpg",
-        specifications: [
-            "30g premium protein blend",
-            "3g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-            "62 servings per container"
-        ],
-        featured: false
-    },
-
-
-
-     {
-        id: 37,
-        title: "EXTRIFIT Whey Protein",
-        category: "EXTRIFIT",
-        description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
-        image: "s37.jpg",
-        specifications: [
-            "30g premium protein blend",
-            "3g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-            "62 servings per container"
-        ],
-        featured: false
-    },
+     
    
     // BSN Products
     {
@@ -2592,7 +2405,7 @@ const categoryTranslations = {
     creatine: "NUTREX RESEARCH",
     energy: "UNIVERSAL",
     amino: "DYMATIZ",
-    muscletech: "EXTRIFIT",
+    muscletech: "MUSCLEMECH",
     bsn: "GAT SPORT",
     cellucor: "ULTIMATE NUTRITION",
     gnc: "USN",
@@ -3053,7 +2866,7 @@ const dropdownCompaniesList = [
     "NUTREX RESEARCH", 
     "UNIVERSAL",
     "DYMATIZ",
-    "EXTRIFIT",
+    "MUSCLEMECH",
     "GAT SPORT",
     "ULTIMATE NUTRITION",
     "USN",
