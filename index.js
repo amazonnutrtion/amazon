@@ -104,24 +104,7 @@ const bestSellersData = [
         rating: 4.7,
         badge: "HOT SELLER"
     },
-    {
-        id: 204,
-        title: "ANIMAL PRE-WORKOUT",
-        category: "energy",
-        description: "Pre-workout supplement for energy and performance",
-        price: "$59.99",
-        originalPrice: "$69.99",
-        image: "sss1.jpg",
-        specifications: [
-            "Boosts energy and focus within 20 minutes",
-            "Enhances endurance and performance",
-            "Supports nitric oxide production",
-            "44 servings per container"
-        ],
-        sales: 2456,
-        rating: 4.6,
-        badge: "POPULAR"
-    }
+   
 ];
 
 // توليد النجوم للتقييم
