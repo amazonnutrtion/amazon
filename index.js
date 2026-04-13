@@ -69,7 +69,7 @@ const bestSellersData = [
     {
         id: 202,
         title: "Micronised Creatine Powde",
-        category: "USN",
+        category: "OPTIMUM NUTRION",
         description: "Scientifically formulated pre-workout",
         price: "$46.99",
         originalPrice: "",
@@ -87,7 +87,7 @@ const bestSellersData = [
     },
     {
         id: 203,
-        title: "OPTIMUM NUTRION AMINO ",
+        title: "OPTIMUM NUTRION",
         category: "amino",
         description: "100% hydrolyzed whey protein isolate",
         price: "$54.99",
