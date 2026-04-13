@@ -51,7 +51,7 @@ const bestSellersData = [
     {
         id: 201,
         title: "Gold Standard 100% Whey Protein Powder",
-        category: "ULTIMATE NUTRITION",
+        category: "OPTIMUM NUTRION",
         description: "World's best-selling pre-workout",
         price: "$86.99",
         originalPrice: "$",
