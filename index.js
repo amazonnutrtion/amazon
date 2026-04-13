@@ -50,7 +50,7 @@
 const bestSellersData = [
     {
         id: 201,
-        title: "ULTIMATE NUTRITION C4 Pre-Workout",
+        title: "Gold Standard 100% Whey Protein Powder",
         category: "ULTIMATE NUTRITION",
         description: "World's best-selling pre-workout",
         price: "$86.99",
