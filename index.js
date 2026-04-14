@@ -2321,53 +2321,53 @@ const products = [
 
     // GHOST Products
     {
-        id: 1000,
-        title: "GHOST Whey Protein",
+        id: 1001,
+        title: "LIQUID CARNITINE 3000",
         category: "ghost",
         description: "Transparent label protein",
         price: "$59.99",
         originalPrice: "$69.99",
-        image: "sss1.jpg",
+        image: "1001.jpg",
         specifications: [
-            "Fully disclosed label",
-            "Great tasting flavors",
-            "No proprietary blends",
-            "Transparent ingredient list",
-            "25 servings per container"
+            "Converts Fat into Energy for Enhanced Performance",
+            "Boosts Workout Endurance and Reduces Fatigue",
+            "Preserves Muscle Glycogen for Improved Strength",
+            "Antioxidant Protection for Brain and Muscle Health",
+            "Clinician’s Choice Product"
         ],
         featured: true
     },
     {
-        id: 1000,
-        title: "GHOST Legend Pre-Workout",
+        id: 1002,
+        title: "100% WHEY",
         category: "ghost",
         description: "Fully transparent pre-workout",
         price: "$49.99",
         originalPrice: "$59.99",
-        image: "sss1.jpg",
+        image: "1002.jpg",
         specifications: [
-            "Fully disclosed formula",
-            "No proprietary blends",
-            "Great energy and focus",
-            "Awesome flavor collaborations",
-            "30 servings per container"
+            "Supports Muscle Growth and Recovery ",
+            "High-Quality Protein with Essential Amino Acids",
+            "Easily Digestible and Quick Absorption ",
+            "Smooth, Clump-Free Mixability ",
+            "Clinician’s Choice Product"
         ],
         featured: true
     },
     {
-        id: 1000,
-        title: "GHOST BCAA",
+        id: 1003,
+        title: "100% WHEY",
         category: "ghost",
         description: "Transparent BCAA formula",
         price: "$34.99",
         originalPrice: "$39.99",
-        image: "sss1.jpg",
+        image: "1003.jpg",
         specifications: [
-            "4.5g BCAA per serving",
-            "Fully transparent label",
-            "Great tasting flavors",
-            "No artificial colors",
-            "30 servings per container"
+           "Supports Muscle Growth and Recovery ",
+            "High-Quality Protein with Essential Amino Acids",
+            "Easily Digestible and Quick Absorption ",
+            "Smooth, Clump-Free Mixability ",
+            "Clinician’s Choice Product"
         ],
         featured: true
     }
