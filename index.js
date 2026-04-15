@@ -2308,10 +2308,10 @@ const products = [
             "Clinician’s Choice Product"
         ],
         featured: true
-    }
+    },
 
      {
-        id: 1003,
+        id: 1004,
         title: "100% WHEY",
         category: "ghost",
         description: "Transparent BCAA formula",
@@ -2326,11 +2326,11 @@ const products = [
             "Clinician’s Choice Product"
         ],
         featured: true
-    }
+    },
 
 
  {
-        id: 1003,
+        id: 1005,
         title: "100% WHEY",
         category: "ghost",
         description: "Transparent BCAA formula",
@@ -2345,10 +2345,10 @@ const products = [
             "Clinician’s Choice Product"
         ],
         featured: true
-    }
+    },
 
  {
-        id: 1003,
+        id: 1006,
         title: "100% WHEY",
         category: "ghost",
         description: "Transparent BCAA formula",
@@ -2363,7 +2363,7 @@ const products = [
             "Clinician’s Choice Product"
         ],
         featured: true
-    }
+    },
 
 ];
 
