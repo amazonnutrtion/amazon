@@ -314,7 +314,7 @@ const products = [
         title: "GLUTAMINE POWDER ",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
+        price: "$42.00",
         originalPrice: "",
         image: "134.jpg",
         specifications: [
@@ -331,7 +331,7 @@ const products = [
         title: "GOLD STANDARD 100% ISOLATE",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
+        price: "$105.99",
         originalPrice: "",
         image: "135.jpg",
         specifications: [
@@ -367,7 +367,7 @@ const products = [
         title: "ZINC MAGNESIUM ASPARTATE",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
+        price: "$45.99",
         originalPrice: "",
         image: "137.jpg",
         specifications: [
@@ -385,7 +385,7 @@ const products = [
         title: "GOLD STANDARD PRO GAINER",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
+        price: "$74.50",
         originalPrice: "",
         image: "138.jpg",
         specifications: [
@@ -402,7 +402,7 @@ const products = [
         title: "PLATINUM HYDROWHEY ",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
+        price: "$105.00",
         originalPrice: "",
         image: "139.jpg",
         specifications: [
@@ -420,7 +420,7 @@ const products = [
         title: "PALTINUM HYDROWHEY",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
+        price: "$55.00",
         originalPrice: "",
         image: "140.jpg",
         specifications: [
@@ -437,7 +437,7 @@ const products = [
         title: "ESSETIAL AMINO ENERGY  ",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
+        price: "$42.00",
         originalPrice: "",
         image: "141.jpg",
         specifications: [
@@ -454,7 +454,7 @@ const products = [
         title: "ESSENTIAL AMMINO ENERGY ",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
+        price: "$42.00",
         originalPrice: "",
         image: "142.jpg",
         specifications: [
@@ -471,7 +471,7 @@ const products = [
         title: "MICRONIZEID CREATINE POWDER",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
+        price: "$100.00",
         originalPrice: "",
         image: "143.jpg",
         specifications: [
@@ -488,7 +488,7 @@ const products = [
         title: "ESSENTIAL AMMINO ENERGY ",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
+        price: "$42.00",
         originalPrice: "",
         image: "144.jpg",
         specifications: [
@@ -505,7 +505,7 @@ const products = [
         title: "GOLD STANDARD WHEY 100% ",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$54.99",
+        price: "$145.00",
         originalPrice: "",
         image: "145.jpg",
         specifications: [
@@ -592,7 +592,7 @@ const products = [
     },
     {
         id: 9,
-        title: "T-Up Max",
+        title: "T-Up ",
         category: "creatine",
         description: "Branched-chain amino acids in 2:1:1 ratio",
         price: "$39.99",
@@ -624,108 +624,11 @@ const products = [
         featured: false
 
     },
-    {
-        id: 11,
-        title: "Platinum Hydrowhey - Velocity Vanilla",
-        category: "protein",
-        description: "Advanced hydrolyzed whey protein isolate for rapid absorption",
-        price: "106.00", // ضف السعر هنا
-        originalPrice: "",
-        image: "7.jpg", // تأكد من اسم الصورة بملفاتك
-        specifications: [
-            "30g of Ultra-Pure Protein per serving",
-            "15.5g of Naturally Occurring & Added EAAs",
-            "8.8g of Added & Naturally Occurring BCAAs",
-            "Supports Muscle Support & Recovery",
-            "Banned Substance Tested"
-        ],
-        featured: false
-    },
-    {
-        id: 12,
-        title: "Gold Standard 100% Isolate",
-        category: "protein",
-        description: "Hydrolyzed and Ultra-Filtered Whey Protein Isolate",
-        price: "129.00", // ضف السعر هنا
-        originalPrice: "",
-        image: "2.jpg",
-        specifications: [
-            "25g of Protein per serving",
-            "5.5g of BCAAs to support endurance and recovery",
-            "1g of Sugar and Low Fat",
-            "Gluten Free & Banned Substance Tested"
-        ],
-        featured: false
-    },
-    {
-        id: 13,
-        title: "Opti-Women Multivitamin",
-        category: "vitamins",
-        description: "Comprehensive multivitamin for active women",
-        price: "42.00", // ضف السعر هنا
-        originalPrice: "",
-        image: "24.jpg",
-        specifications: [
-            "Supports Cellular Energy & Metabolism",
-            "Supports Muscle Health & Immunity",
-            "Nutrient optimization system with essential vitamins and minerals",
-            "120 Capsules (60 Servings)"
-        ],
-        featured: false
-    },
-    {
-        id: 14,
-        title: "Gold Standard 100% Isolate - Chocolate Bliss",
-        category: "protein",
-        description: "Hydrolyzed and Ultra-Filtered Whey Protein Isolate",
-        price: "106.99", // ضف السعر هنا
-        originalPrice: "",
-        image: "28.jpg",
-        specifications: [
-            "25g of Protein per serving",
-            "5.5g of BCAAs for muscle recovery",
-            "Delicious Chocolate Bliss Flavor",
-            "Banned Substance Tested"
-        ],
-        featured: false
-    },
-    {
-        id: 15,
-        title: "Gold Standard 100% Whey - Cookies & Cream",
-        category: "protein",
-        description: "The world's best-selling whey protein powder",
-        price: "51.00",
-        originalPrice: "",
-        image: "أمازون ويب off.jpg",
-        specifications: [
-            "24g of High-Quality Protein per serving",
-            "5.5g of Naturally Occurring BCAAs",
-            "Supports Muscle Support & Recovery",
-            "73 Servings per container"
-        ],
-        featured: false
-    },
-    {
-        id: 16,
-        title: "Opti-Men Multivitamin",
-        category: "vitamins",
-        description: "Comprehensive multivitamin for active men",
-        price: "45.00",
-        originalPrice: "",
-        image: "أمازون ويب off2.jpg",
-        specifications: [
-            "Supports Cellular Energy & Metabolism",
-            "Supports Muscle Health & Immunity",
-            "Contains essential vitamins, minerals, and botanical extracts",
-            "90 Tablets (30 Servings)"
-        ],
-        featured: false
-    },
-
+   
     // ANIMAL Products
     {
         id: 11,
-        title: "Animal Pak",
+        title: "Animal Pak 44",
         category: "energy",
         description: "Pre-workout supplement for energy and performance",
         price: "$48.50",
@@ -744,7 +647,7 @@ const products = [
 
     {
         id: 11,
-        title: "Animal Pak",
+        title: "Animal Pak 30 ",
         category: "energy",
         description: "Pre-workout supplement for energy and performance",
         price: "$39.00",
@@ -818,7 +721,7 @@ const products = [
         title: "Animal Test",
         category: "energy",
         description: "Essential amino acids for athletes",
-        price: "$44.00",
+        price: "$98.00",
         originalPrice: "",
         image: "s15.jpg",
         specifications: [
@@ -865,30 +768,15 @@ const products = [
         ],
         featured: false
     },
-    {
-        id: 18,
-        title: "ISO 100",
-        category: "amino",
-        description: "100% hydrolyzed whey protein isolate",
-        price: "$113.00",
-        originalPrice: "",
-        image: "s18.jpg",
-        specifications: [
-            "Protein 25g",
-            "Calories 120",
-            "Sugar 1g",
-            "BCAAs 5.5g"
-        ],
-        featured: false
-    },
+   
 
     // DYMATIZE New Products
     {
         id: 19,
         title: "Super Mass Gainer - 12 lb",
-        category: "protein", // يمكنك تغييرها إذا كنت تضع الضخامة في قسم آخر
+        category: "amino", // يمكنك تغييرها إذا كنت تضع الضخامة في قسم آخر
         description: "High Protein & Carb Blend Dietary Supplement",
-        price: "79.8", // ضف السعر هنا
+        price: "87.00", // ضف السعر هنا
         originalPrice: "",
         image: "أمازون ويب 17.jpg",
         specifications: [
@@ -901,11 +789,11 @@ const products = [
         featured: false
     },
     {
-        id: 20,
+        id: 150,
         title: "Super Mass Gainer - 6.18 lb",
-        category: "protein",
+        category: "amino",
         description: "High Protein & Carb Blend Dietary Supplement",
-        price: "25.55", // ضف السعر هنا
+        price: "54.55", // ضف السعر هنا
         originalPrice: "",
         image: "أمازون ويب 9.jpg",
         specifications: [
@@ -917,11 +805,11 @@ const products = [
         featured: false
     },
     {
-        id: 21,
+        id: 151,
         title: "ISO100 Hydrolyzed - 5 lb",
         category: "amino", // خليتها amino مثل ما سويت انت بالمنتج السابق ISO 100
         description: "100% Whey Protein Isolate",
-        price: "48.10",
+        price: "113.10",
         originalPrice: "",
         image: "أمازون ويب 8.jpg",
         specifications: [
@@ -936,11 +824,11 @@ const products = [
     // MUSCLETECH Products
     {
         id: 20,
-        title: "EXTRIFIT Whey Protein",
+        title: "peef protein isolate",
         category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
+        price: "$84.5",
+        originalPrice: "$",
         image: "s20.jpg",
         specifications: [
             "30g premium protein blend",
@@ -954,11 +842,11 @@ const products = [
 
     {
         id: 21,
-        title: "EXTRIFIT Whey Protein",
+        title: "PEEF PROTEIN ISOLATT",
         category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
+        price: "$48.99",
+        originalPrice: "",
         image: "s21.jpg",
         specifications: [
             "30g premium protein blend",
@@ -972,11 +860,11 @@ const products = [
 
     {
         id: 22,
-        title: "EXTRIFIT Whey Protein",
+        title: "PRE-WORKOUT ",
         category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
+        price: "$39.99",
+        originalPrice: "",
         image: "s22.jpg",
         specifications: [
             "30g premium protein blend",
@@ -990,11 +878,11 @@ const products = [
 
     {
         id: 23,
-        title: "EXTRIFIT Whey Protein",
+        title: "CARNIVOR MASS",
         category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
+        price: "$58.99",
+        originalPrice: "",
         image: "s23.jpg",
         specifications: [
             "30g premium protein blend",
@@ -1008,10 +896,10 @@ const products = [
 
     {
         id: 24,
-        title: "EXTRIFIT Whey Protein",
+        title: " CARNIVOR LEAN MEAL ",
         category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
-        price: "$84.99",
+        price: "$57.99",
         originalPrice: "$94.99",
         image: "s24.jpg",
         specifications: [
@@ -1026,11 +914,11 @@ const products = [
 
     {
         id: 25,
-        title: "EXTRIFIT Whey Protein",
+        title: "CARNIVOR BEEF PROTEIN ISOLATE ",
         category: "MUSCLEMECH",
         description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
+        price: "$145.00",
+        originalPrice: "",
         image: "s25.jpg",
         specifications: [
             "30g premium protein blend",
@@ -1043,24 +931,7 @@ const products = [
     },
 
 
-    {
-        id: 26,
-        title: "EXTRIFIT ",
-        category: "MUSCLEMECH",
-        description: "Premium whey protein with creatine",
-        price: "$84.99",
-        originalPrice: "$94.99",
-        image: "s26.jpg",
-        specifications: [
-            "30g premium protein blend",
-            "3g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-            "62 servings per container"
-        ],
-        featured: false
-    },
-
+   
 
 
 
@@ -1104,7 +975,7 @@ const products = [
         title: "CLA 1250",
         category: "GAT SPORT",
         description: "Ultra-premium protein matrix",
-        price: "$19.00",
+        price: "$29.00",
         originalPrice: "",
         image: "121.jpg",
         specifications: [
@@ -1649,8 +1520,8 @@ const products = [
         title: "BCAA AMINO",
         category: "USN",
         description: "Scientifically formulated pre-workout",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$39.99",
+        originalPrice: "",
         image: "s60.jpg",
         specifications: [
             "Pre-workout",
@@ -1667,8 +1538,8 @@ const products = [
         title: "ZINC ",
         category: "USN",
         description: "Scientifically formulated pre-workout",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$39.99",
+        originalPrice: "",
         image: "s61.jpg",
         specifications: [
             " One-a-day,high potency 25mg zinc",
@@ -1685,8 +1556,8 @@ const products = [
         title: "AMINO",
         category: "USN",
         description: "Scientifically formulated pre-workout",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$38.99",
+        originalPrice: "",
         image: "s62.jpg",
         specifications: [
             "Maintains Hydration",
@@ -1723,8 +1594,8 @@ const products = [
         title: "CLA ",
         category: "USN",
         description: "Scientifically formulated pre-workout",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$35.99",
+        originalPrice: "",
         image: "s64.jpg",
         specifications: [
             "Boosts weight loss",
@@ -1741,8 +1612,8 @@ const products = [
         title: "MULTI-VITAMIN",
         category: "USN",
         description: "Scientifically formulated pre-workout",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$29.99",
+        originalPrice: "",
         image: "s65.jpg",
         specifications: [
             "One capsule covers 100% of the daily requirement of essential vitamins",
@@ -1761,7 +1632,7 @@ const products = [
         category: "MUSCLETECH",
         description: "Complete protein and superfood blend",
         price: "$59.99",
-        originalPrice: "$69.99",
+        originalPrice: "",
         image: "s68.jpg",
         specifications: [
             "5 CREATINE ",
@@ -1777,7 +1648,7 @@ const products = [
         category: "MUSCLETECH",
         description: "Fat burner with amino acids",
         price: "$44.99",
-        originalPrice: "$49.99",
+        originalPrice: "$",
         image: "s69.jpg",
         specifications: [
             "200 MG ALPHA LIPOIC ACID ",
@@ -1796,7 +1667,7 @@ const products = [
         title: " ISO ",
         category: "MUSCLETECH",
         description: "Fat burner with amino acids",
-        price: "$44.99",
+        price: "$104.99",
         originalPrice: "$49.99",
         image: "s70.jpg",
         specifications: [
@@ -1816,7 +1687,7 @@ const products = [
         category: "MUSCLETECH",
         description: "Fat burner with amino acids",
         price: "$44.99",
-        originalPrice: "$49.99",
+        originalPrice: "",
         image: "s71.jpg",
         specifications: [
             "ENHANCED MUSCLE RECOVERY ",
@@ -1835,8 +1706,8 @@ const products = [
         title: " NITRO TECH PROTINE ",
         category: "MUSCLETECH",
         description: "Fat burner with amino acids",
-        price: "$44.99",
-        originalPrice: "$49.99",
+        price: "$108.00",
+        originalPrice: "",
         image: "s72.jpg",
         specifications: [
             "30 G PROTINE ",
@@ -1857,8 +1728,8 @@ const products = [
         title: "BCAA TROPLCAL PUNCH ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$39.99",
+        originalPrice: "",
         image: "76.jpg",
         specifications: [
             "4.4 BCAA ",
@@ -1874,8 +1745,8 @@ const products = [
         title: "KING MASS",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$81.99",
+        originalPrice: "",
         image: "77.jpg",
         specifications: [
             "187 G CARB MATRIX",
@@ -1893,8 +1764,8 @@ const products = [
         title: "Glutamine XS Unflavored Powder",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$39.99",
+        originalPrice: "",
         image: "80.jpg",
         specifications: [
             "5G PURE GLUTAMINE ",
@@ -1910,8 +1781,8 @@ const products = [
         title: "AMINO ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$38.99",
+        originalPrice: "",
         image: "81.jpg",
         specifications: [
             "10 G ESSENTIAL AMINO ACIDS ",
@@ -1926,8 +1797,8 @@ const products = [
         title: "CREATINE ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$38.99",
+        originalPrice: "",
         image: "82.jpg",
         specifications: [
             "5G PER SCOOP ",
@@ -1943,8 +1814,8 @@ const products = [
         title: "KING WHEY ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$69==112.99",
+        originalPrice: "",
         image: "84.jpg",
         specifications: [
             "High Quality Whey Protein – Contains 23G of protein per scoop ",
@@ -1959,8 +1830,8 @@ const products = [
         title: "KING WHEY",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$59.99",
+        originalPrice: "",
         image: "85.jpg",
         specifications: [
             "PROTEIN 23G ",
@@ -1976,8 +1847,8 @@ const products = [
         title: " BCAA ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$37.99",
+        originalPrice: "",
         image: "86.jpg",
         specifications: [
             "4.4 G BCAA ",
@@ -1994,8 +1865,8 @@ const products = [
         title: "L-CARNITINE ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
+        price: "$38.99",
+        originalPrice: "",
         image: "87.jpg",
         specifications: [
             "24g premium protein blend",
@@ -2013,8 +1884,8 @@ const products = [
         title: "Asylum Cabinet Creatine",
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
-        price: "$44.99",
-        originalPrice: "$49.99",
+        price: "$74.00",
+        originalPrice: "",
         image: "96.jpg",
         specifications: [
             "5G PURE CREATINE",
@@ -2031,7 +1902,7 @@ const products = [
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
         price: "$44.99",
-        originalPrice: "$49.99",
+        originalPrice: "",
         image: "97.jpg",
         specifications: [
             "Promotes Sexual Health",
@@ -2048,7 +1919,7 @@ const products = [
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
         price: "$44.99",
-        originalPrice: "$49.99",
+        originalPrice: "",
         image: "98.jpg",
         specifications: [
             "Builds Lean Muscle Mass",
@@ -2064,8 +1935,8 @@ const products = [
         title: "Psychotic Test",
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
-        price: "$44.99",
-        originalPrice: "$49.99",
+        price: "$31.99",
+        originalPrice: "",
         image: "99.jpg",
         specifications: [
             "PUMP & ENDURANCE MATRIX 3.8G",
@@ -2080,8 +1951,8 @@ const products = [
         title: "Psychotic",
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
-        price: "$44.99",
-        originalPrice: "$49.99",
+        price: "$29.99",
+        originalPrice: "",
         image: "100.jpg",
         specifications: [
             "Highly branched cyclic dextrin",
@@ -2098,8 +1969,8 @@ const products = [
         title: "L-Citrulline",
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
-        price: "$44.99",
-        originalPrice: "$49.99",
+        price: "$30.99",
+        originalPrice: "",
         image: "101.jpg",
         specifications: [
             "Increases Muscle Pumps",
@@ -2114,8 +1985,8 @@ const products = [
         title: "Tribulus Capsules",
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
-        price: "$44.99",
-        originalPrice: "$49.99",
+        price: "$113.99",
+        originalPrice: "",
         image: "102.jpg",
         specifications: [
             "750 MG of Tribulus Terrestris Extract per capsule",
@@ -2132,8 +2003,8 @@ const products = [
         title: "Premium Whey",
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
-        price: "$44.99",
-        originalPrice: "$49.99",
+        price: "$34.00",
+        originalPrice: "",
         image: "104.jpg",
         specifications: [
             "PROTEIN 25G",
@@ -2149,7 +2020,7 @@ const products = [
         title: "Insane Cutz",
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
-        price: "$44.99",
+        price: "32.00",
         originalPrice: "$49.99",
         image: "105.jpg",
         specifications: [
@@ -2166,7 +2037,7 @@ const products = [
         title: "Insane Cutz",
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
-        price: "$44.99",
+        price: "$30.99",
         originalPrice: "$49.99",
         image: "106.jpg",
         specifications: [
@@ -2438,6 +2309,62 @@ const products = [
         ],
         featured: true
     }
+
+     {
+        id: 1003,
+        title: "100% WHEY",
+        category: "ghost",
+        description: "Transparent BCAA formula",
+        price: "$34.99",
+        originalPrice: "$39.99",
+        image: "1004.jpg",
+        specifications: [
+            "Supports Muscle Growth and Recovery ",
+            "High-Quality Protein with Essential Amino Acids",
+            "Easily Digestible and Quick Absorption ",
+            "Smooth, Clump-Free Mixability ",
+            "Clinician’s Choice Product"
+        ],
+        featured: true
+    }
+
+
+ {
+        id: 1003,
+        title: "100% WHEY",
+        category: "ghost",
+        description: "Transparent BCAA formula",
+        price: "$34.99",
+        originalPrice: "$39.99",
+        image: "1005.jpg",
+        specifications: [
+            "Supports Muscle Growth and Recovery ",
+            "High-Quality Protein with Essential Amino Acids",
+            "Easily Digestible and Quick Absorption ",
+            "Smooth, Clump-Free Mixability ",
+            "Clinician’s Choice Product"
+        ],
+        featured: true
+    }
+
+ {
+        id: 1003,
+        title: "100% WHEY",
+        category: "ghost",
+        description: "Transparent BCAA formula",
+        price: "$34.99",
+        originalPrice: "$39.99",
+        image: "1006.jpg",
+        specifications: [
+            "Supports Muscle Growth and Recovery ",
+            "High-Quality Protein with Essential Amino Acids",
+            "Easily Digestible and Quick Absorption ",
+            "Smooth, Clump-Free Mixability ",
+            "Clinician’s Choice Product"
+        ],
+        featured: true
+    }
+
 ];
 
 // DOM Elements
