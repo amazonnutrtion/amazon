@@ -1480,6 +1480,8 @@ footer {
 
 /* Responsive Design - Mobile */
 @media (max-width: 992px) {
+
+
     
     .modal-body {
         flex-direction: column;
@@ -1563,6 +1565,8 @@ footer {
         margin-bottom: 25px;
     }
     
+
+
     
     /* Mobile Slider */
     .featured-slider {
