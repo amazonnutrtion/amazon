@@ -2769,6 +2769,63 @@ function initSwipers() {
     }
 }
 
+
+// دالة عرض المنتجات (إذا لم تكن موجودة)
+function displayProductsGrid(productsArray) {
+    const productsGrid = document.querySelector('.products-grid');
+    if (!productsGrid) return;
+    
+    productsGrid.innerHTML = '';
+    
+    if (productsArray.length === 0) {
+        productsGrid.innerHTML = '<div class="no-products">No products found for this company</div>';
+        return;
+    }
+    
+    productsArray.forEach(product => {
+        const productCard = document.createElement('div');
+        productCard.className = 'product-card';
+        productCard.innerHTML = `
+            <div class="product-img">
+                <img src="${product.image}" alt="${product.title}" onerror="this.src='sss1.jpg'">
+            </div>
+            <div class="product-info">
+                <span class="product-category">${categoryTranslations[product.category] || product.category}</span>
+                <h3 class="product-title">${product.title}</h3>
+                <div class="product-price">
+                    <span class="price">${product.price}</span>
+                    ${product.originalPrice ? `<span class="original-price">${product.originalPrice}</span>` : ''}
+                </div>
+                <button class="view-details" data-id="${product.id}">View Details</button>
+            </div>
+        `;
+        productsGrid.appendChild(productCard);
+    });
+    
+    // إعادة ربط أزرار التفاصيل
+    document.querySelectorAll('.view-details').forEach(btn => {
+        btn.addEventListener('click', function() {
+            const id = parseInt(this.getAttribute('data-id'));
+            if (typeof openProductModal === 'function') {
+                openProductModal(id);
+            }
+        });
+    });
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Display Featured Products in Slider
 function displayFeaturedProducts() {
     if (!featuredSwiperWrapper) return;
