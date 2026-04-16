@@ -624,8 +624,301 @@ const products = [
         featured: false
 
     },
+
+
+  {
+        id: 10,
+        title: "L-Arginine",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "35.10",
+        originalPrice: "",
+        image: "s10.jpg",
+        specifications: [
+            "Enhances Blood Flow and Circulation ",
+            "Supports Protein Synthesis for Muscle Growth ",
+            "Boosts Nitric Oxide Production for Better Pumps ",
+            "Promotes Hormone Release for Overall Performance "
+        ],
+        featured: false
+
+    },
    
+  {
+        id: 152,
+        title: "100% WHEY PROTEIN 64",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "74.10",
+        originalPrice: "",
+        image: "152.jpg",
+        specifications: [
+            "Supports Muscle Growth and Recovery  ",
+            "High-Quality Protein with Essential Amino Acids  ",
+            "Easily Digestible and Quick Absorption  ",
+            "Smooth, Clump-Free Mixability  "
+        ],
+        featured: false
+
+    },
+   
+  {
+        id: 153,
+        title: "100% WHEY PROTEIN 26",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "45.10",
+        originalPrice: "",
+        image: "153.jpg",
+        specifications: [
+            "Supports Muscle Growth and Recovery  ",
+            "High-Quality Protein with Essential Amino Acids  ",
+            "Easily Digestible and Quick Absorption  ",
+            "Smooth, Clump-Free Mixability  "
+        ],
+        featured: false
+
+    },
+   
+  {
+        id: 154,
+        title: "HMB 1000",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "30.10",
+        originalPrice: "",
+        image: "154.jpg",
+        specifications: [
+            "Reduces Muscle Breakdown During Intense Training ",
+            "Promotes Faster Muscle Tissue Repair ",
+            "Enhances Muscle Protein Synthesis for Greater Gains ",
+            "Supports Long-Term Muscle Growth and Strength"
+        ],
+        featured: false
+
+    },
+   
+  {
+        id: 155,
+        title: "ABOL HARDCORE",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "55.10",
+        originalPrice: "",
+        image: "155.jpg",
+        specifications: [
+            "Former Soviet Union Secret Anabolic: Dicyclopentanone ",
+            "Muscle Growth, Repair & Recovery ",
+            "Fast-Acting Liquid-Capsule Technology ",
+            "Full 30-Day Cycle"
+        ],
+        featured: false
+
+    },
+   
+     {
+        id: 156,
+        title: "CAFFEINE 200",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "28.10",
+        originalPrice: "",
+        image: "156.jpg",
+        specifications: [
+            "Provides a Powerful Energy Boost  ",
+            "Enhances Focus and Mental Alertness  ",
+            "Supports Increased Workout Performance  ",
+            "Fast-Acting and Long-Lasting Energy  "
+        ],
+        featured: false
+
+    },
+    
+     {
+        id: 157,
+        title: "CREATINE MONOHYDRATE 200",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "54.10",
+        originalPrice: "",
+        image: "157.jpg",
+        specifications: [
+            "Boosts Strength and Power Output",
+            "Promotes Muscle Growth and Fullness ",
+            "Enhances Endurance and Delays Fatigue ",
+            "Supports Cognitive Function "
+        ],
+        featured: false
+
+    },
+
+  {
+        id: 158,
+        title: "GLUTAMINE PURE",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "36.10",
+        originalPrice: "",
+        image: "158.jpg",
+        specifications: [
+            "Enhances Blood Flow and Circulation ",
+            "Supports Protein Synthesis for Muscle Growth ",
+            "Boosts Nitric Oxide Production for Better Pumps ",
+            "Promotes Hormone Release for Overall Performance "
+        ],
+        featured: false
+
+    },
+   
+  {
+        id: 159,
+        title: "BCAA 6000",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "37.10",
+        originalPrice: "",
+        image: "159.jpg",
+        specifications: [
+            "Promotes Muscle Protein Synthesis for Growth ",
+            "Enhances Endurance and Reduces Fatigue  ",
+            "Supports Faster Muscle Recovery  ",
+            "Aids in Immune Function and Insulin Sensitivity  "
+        ],
+        featured: false
+
+    },
+   
+  {
+        id: 161,
+        title: "CREATINE MONOHYDRATE 60",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "35.10",
+        originalPrice: "",
+        image: "161.jpg",
+        specifications: [
+             "Boosts Strength and Power Output",
+            "Promotes Muscle Growth and Fullness ",
+            "Enhances Endurance and Delays Fatigue ",
+            "Supports Cognitive Function "
+        ],
+        featured: false
+
+    },
+   
+  {
+        id: 162,
+        title: "VITRIX",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "35.10",
+        originalPrice: "",
+        image: "162.jpg",
+        specifications: [
+            "Enhances Blood Flow and Circulation ",
+            "Supports Protein Synthesis for Muscle Growth ",
+            "Boosts Nitric Oxide Production for Better Pumps ",
+            "Promotes Hormone Release for Overall Performance "
+        ],
+        featured: false
+
+    },
+   
+  {
+        id: 163,
+        title: "EAA+ HYDRATION SAMPLE",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "42.10",
+        originalPrice: "",
+        image: "163.jpg",
+        specifications: [
+            "Enhanced Muscle Recovery & Growth ",
+            "Electrolyte Balance & Advanced Hydration ",
+            "Improved Endurance & Energy ",
+            "Optimized Nutrient Absorption "
+        ],
+        featured: false
+
+    },
+
+
+     
+  {
+        id: 164,
+        title: "GOLD STANDERD 100% CASEIN ",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "35.10",
+        originalPrice: "",
+        image: "164.jpg",
+        specifications: [
+            "Enhances Blood Flow and Circulation ",
+            "Supports Protein Synthesis for Muscle Growth ",
+            "Boosts Nitric Oxide Production for Better Pumps ",
+            "Promotes Hormone Release for Overall Performance "
+        ],
+        featured: false
+
+    },
+
+     
+  {
+        id: 165,
+        title: "OUTLIFT CLINICAL",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "48.10",
+        originalPrice: "",
+        image: "163.jpg",
+        specifications: [
+            "Full Clinical & Effective Doses",
+            "Complete All-In-One Pre-Workout ",
+            "Strength, Energy, Performance, Pump & Recovery",
+            "Great Taste "
+        ],
+        featured: false
+
+    },
+
+     
+  {
+        id: 166,
+        title: "100% WHEY PROTEIN 128",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "112.10",
+        originalPrice: "",
+        image: "163.jpg",
+        specifications: [
+            "Supports Muscle Growth and Recovery  ",
+            "High-Quality Protein with Essential Amino Acids  ",
+            "Easily Digestible and Quick Absorption  ",
+            "Smooth, Clump-Free Mixability  "
+        ],
+        featured: false
+
+    },
+
+    
     // ANIMAL Products
+     {
+        id: 10,
+        title: "L-Arginine",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "35.10",
+        originalPrice: "",
+        image: "s10.jpg",
+        specifications: [
+            "Enhances Blood Flow and Circulation ",
+            "Supports Protein Synthesis for Muscle Growth ",
+            "Boosts Nitric Oxide Production for Better Pumps ",
+            "Promotes Hormone Release for Overall Performance "
+        ],
+        featured: false
+
+    },
     {
         id: 11,
         title: "Animal Pak 44",
