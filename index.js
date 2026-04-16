@@ -1034,7 +1034,25 @@ const products = [
         description: "Pre-workout supplement for energy and performance",
         price: "$59.99",
         originalPrice: "$69.99",
-        image: "s16.jpg",
+        image: "16.jpg",
+        specifications: [
+            "Earn 2X Points Per Every Dollar Spent On Subscriptions",
+            "Cancel Or Pause Your Subscription Anytime",
+            "Always Free Shipping + 90 Day Money Back Guarantee",
+            "Save 20% on Shipment 3 And Beyond"
+        ],
+        featured: false
+    },
+
+
+       {
+        id: 169,
+        title: "m-stak",
+        category: "energy",
+        description: "Pre-workout supplement for energy and performance",
+        price: "$59.99",
+        originalPrice: "$69.99",
+        image: "169.jpg",
         specifications: [
             "Earn 2X Points Per Every Dollar Spent On Subscriptions",
             "Cancel Or Pause Your Subscription Anytime",
@@ -1114,6 +1132,26 @@ const products = [
         ],
         featured: false
     },
+
+        {
+        id: 167,
+        title: "ISO100 Hydrolyzed",
+        category: "amino", // يمكنك تغييرها إذا كنت تضع الضخامة في قسم آخر
+        description: "High Protein & Carb Blend Dietary Supplement",
+        price: "87.00", // ضف السعر هنا
+        originalPrice: "",
+        image: "167.jpg",
+        specifications: [
+            "71 servings",
+            "Protein 25g",
+            "BCAAs 5.5g",
+            "Leucine 2.6g",
+            "Gourmet Vanilla Flavor"
+        ],
+        featured: false
+    },
+
+    
     // MUSCLETECH Products
     {
         id: 20,
@@ -1186,8 +1224,23 @@ const products = [
         ],
         featured: false
     },
-
-    {
+{
+        id: 168,
+        title: "cell tech ",
+        category: "MUSCLEMECH",
+        description: "Premium whey protein with creatine",
+        price: "$58.99",
+        originalPrice: "",
+        image: "168.jpg",
+        specifications: [
+            "10g premium protein blend",
+            "5g creatine monohydrate",
+            "5g glutamine",
+            "Supports muscle growth and recovery",
+           
+        ],
+        featured: false
+    },    {
         id: 24,
         title: " CARNIVOR LEAN MEAL ",
         category: "MUSCLEMECH",
@@ -2345,119 +2398,108 @@ const products = [
 
 
     // REDCON1 Products
-    {
-        id: 108,
-        title: "HIT EAA Amino Acid Complex",
-        category: "DY NUTRITION",
-        description: "Military-grade pre-workout",
-        price: "$59.99",
-        originalPrice: "$69.99",
-        image: "108.jpg",
-        specifications: [
-            "Promotes muscle growth and repair, increased strength and maximised recovery",
-            "Specifically designed to reduce tiredness and fatigue",
-            "Contributes to normal protein and glycogen metabolism",
-            "1200MG VITAMIN B6",
-            "2123MG BCAASr"
-        ],
-        featured: false
-    },
+
     {
         id: 109,
-        title: " Shadowhey ISOLATE",
-        category: "DY NUTRITION",
+        title: " ISOPURE COLLAGEN",
+        category: "ISOPURE",
         description: "Military-grade pre-workout",
         price: "$59.99",
-        originalPrice: "$69.99",
+        originalPrice: "",
         image: "109.jpg",
         specifications: [
-            "PROTINE 26G ",
-            "FAT 2.83 G",
-            "CARBOHYDRATES 0.94G",
-            "SALT 0.6G ",
+            "20g collagen ",
+            "Helps support healthy joints, hair, skin, and nails¹",
+            "Immune system support¹",
+            "30mcg biotin",
 
         ],
         featured: false
     },
     {
         id: 110,
-        title: "Game Changer Mass",
-        category: "DY NUTRITION",
+        title: "ISOPURE Low Carb Protein",
+        category: "ISOPURE",
         description: "Military-grade pre-workout",
         price: "$59.99",
-        originalPrice: "$69.99",
+        originalPrice: "",
         image: "110.jpg",
         specifications: [
-            "64 G PROTEIN ",
-            "128 CARBOHYDRATES ",
-            "5 G CREATINE ",
+            "25g of Protein ",
+            "100% Whey Protein Isolate ",
+            "Vitamins and Minerals ",
+            "Gluten Free"
 
         ],
         featured: false
     },
     {
         id: 111,
-        title: "HIT BCAA 4:1:1",
-        category: "DY NUTRITION",
+        title: "ISOPURE ZERO CARB Protein",
+        category: "ISOPURE",
         description: "Military-grade pre-workout",
         price: "$59.99",
-        originalPrice: "$69.99",
+        originalPrice: "",
         image: "111.jpg",
         specifications: [
-            "L-Glutamine Monohydrate 5000 MG ",
-            "L-Leucine 5000 MG ",
-            "L-Isoleucine 1250 MG ",
-            "L-Valine 1250 MG ",
+           "25g of Protein ",
+            "100% Whey Protein Isolate ",
+            "Vitamins and Minerals ",
+            "Gluten Free"
 
         ],
         featured: false
     },
     {
         id: 112,
-        title: "HIT BCAA 10:1:1",
-        category: "DY NUTRITION",
+        title: "ISOPURE ZERO CARB Protein",
+        category: "ISOPURE",
         description: "Military-grade pre-workout",
         price: "$59.99",
         originalPrice: "$69.99",
         image: "112.jpg",
         specifications: [
-            "12000 mg BCAA",
-            "3000 mg Citrulline",
-            "2000 mg Beta-Alanine",
-            "Caffeine Free & Sugar-Free",
+           "25g of Protein ",
+            "100% Whey Protein Isolate ",
+            "Vitamins and Minerals ",
+            "Gluten Free"
+
 
         ],
         featured: false
     },
     {
         id: 113,
-        title: "Blood & Guts PreWorkout",
-        category: "DY NUTRITION",
+        title: "ISOPURE ZERO CARB Protein",
+        category: "ISOPURE",
         description: "Military-grade pre-workout",
         price: "$59.99",
         originalPrice: "$69.99",
         image: "113.jpg",
         specifications: [
-            "Caffeine 350 MG ",
-            "Citrulline Malate 6000 MG ",
-            "Beta-alanine 5500 MG ",
-            "Arginine AKG 4000MG ",
+              "25g of Protein ",
+            "100% Whey Protein Isolate ",
+            "Vitamins and Minerals ",
+            "Gluten Free"
+
+
 
         ],
         featured: false
     },
     {
         id: 114,
-        title: "Shadowhey Hydrolyzed",
-        category: "DY NUTRITION",
+        title: "ISOPURE ZERO CARB Protein",
+        category: "ISOPURE",
         description: "Military-grade pre-workout",
         price: "$59.99",
         originalPrice: "$69.99",
         image: "114.jpg",
         specifications: [
-            "4.9g of BCAAs per servings",
-            "0.61g of carbohydrates per serving",
-            "0.51g of Fat and 0.57g of Sugars",
+            "25g of Protein ",
+            "100% Whey Protein Isolate ",
+            "Vitamins and Minerals ",
+            "Gluten Free"
 
         ],
         featured: false
@@ -2465,37 +2507,22 @@ const products = [
 
     {
         id: 116,
-        title: "Metabolic Mass Gainer ",
-        category: "DY NUTRITION",
+        title: "ISOPURE ZERO CARB Protein ",
+        category: "ISOPURE",
         description: "Military-grade pre-workout",
         price: "$59.99",
         originalPrice: "$69.99",
         image: "116.jpg",
         specifications: [
-            "Net Weight – 6000g",
-            "Serving size – 2 scoops (150g)",
-            "Servings per container – 40",
+            "25g of Protein ",
+            "100% Whey Protein Isolate ",
+            "Vitamins and Minerals ",
+            "Gluten Free"
 
         ],
         featured: false
     },
-    {
-        id: 117,
-        title: "OMEGA-3 Softgel",
-        category: "DY NUTRITION",
-        description: "Military-grade pre-workout",
-        price: "$59.99",
-        originalPrice: "$69.99",
-        image: "117.jpg",
-        specifications: [
-            "330mg EPA & 220mg DHA per serving",
-            "Beneficial effect on the brain & vision",
-            "Contributes to the normal function of the heart",
-
-        ],
-        featured: false
-    },
-
+    
 
     // KAGED MUSCLE Products
     {
@@ -2682,7 +2709,7 @@ const categoryTranslations = {
     jym: "MUSCLETECH",
     rsp: "RONNIE COLEMAN",
     bpi: "INSANE LABZ",
-    evogen: "DY NUTRITION",
+    evogen: "ISOPURE",
     redcon: "REDCON1",
     kaged: "KAGED MUSCLE",
     ghost: "GHOST"
@@ -3200,7 +3227,7 @@ const dropdownCompaniesList = [
     "MUSCLETECH",
     "RONNIE COLEMAN",
     "INSANE LABZ",
-    "DY NUTRITION",
+    "ISOPURE",
     "REDCON1",
     "KAGED MUSCLE",
     "GHOST"
