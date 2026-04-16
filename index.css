@@ -1375,6 +1375,55 @@ header .container {
     box-shadow: 0 8px 20px rgba(37, 211, 102, 0.5);
 }
 
+
+
+
+
+
+
+
+/* About Us Section */
+.about-us {
+    padding: 60px 0;
+    background: linear-gradient(135deg, #0a0a0a 0%, #111 100%);
+    border-bottom: 1px solid #ff2200;
+}
+
+.about-content {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.about-text p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #ccc;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.about-text p:first-child {
+    font-weight: 500;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .about-text p {
+        font-size: 16px;
+        line-height: 1.6;
+    }
+}
+
+
+
+
+
+
+
+
+
+
 /* Footer */
 footer {
     background-color: #0a0a0a;
