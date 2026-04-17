@@ -1156,7 +1156,7 @@ const products = [
     {
         id: 20,
         title: "peef protein isolate",
-        category: "MUSCLEMECH",
+        category: "MUSCLEMEDS",
         description: "Premium whey protein with creatine",
         price: "$84.5",
         originalPrice: "$",
@@ -1174,7 +1174,7 @@ const products = [
     {
         id: 21,
         title: "PEEF PROTEIN ISOLATT",
-        category: "MUSCLEMECH",
+        category: "MUSCLEMEDS",
         description: "Premium whey protein with creatine",
         price: "$48.99",
         originalPrice: "",
@@ -1192,7 +1192,7 @@ const products = [
     {
         id: 22,
         title: "PRE-WORKOUT ",
-        category: "MUSCLEMECH",
+        category: "MUSCLEMEDS",
         description: "Premium whey protein with creatine",
         price: "$39.99",
         originalPrice: "",
@@ -1210,7 +1210,7 @@ const products = [
     {
         id: 23,
         title: "CARNIVOR MASS",
-        category: "MUSCLEMECH",
+        category: "MUSCLEMEDS",
         description: "Premium whey protein with creatine",
         price: "$58.99",
         originalPrice: "",
@@ -1224,26 +1224,10 @@ const products = [
         ],
         featured: false
     },
-{
-        id: 168,
-        title: "cell tech ",
-        category: "MUSCLEMECH",
-        description: "Premium whey protein with creatine",
-        price: "$58.99",
-        originalPrice: "",
-        image: "168.jpg",
-        specifications: [
-            "10g premium protein blend",
-            "5g creatine monohydrate",
-            "5g glutamine",
-            "Supports muscle growth and recovery",
-           
-        ],
-        featured: false
-    },    {
+  {
         id: 24,
         title: " CARNIVOR LEAN MEAL ",
-        category: "MUSCLEMECH",
+        category: "MUSCLEMEDS",
         description: "Premium whey protein with creatine",
         price: "$57.99",
         originalPrice: "$94.99",
@@ -1261,7 +1245,7 @@ const products = [
     {
         id: 25,
         title: "CARNIVOR BEEF PROTEIN ISOLATE ",
-        category: "MUSCLEMECH",
+        category: "MUSCLEMEDS",
         description: "Premium whey protein with creatine",
         price: "$145.00",
         originalPrice: "",
@@ -1989,6 +1973,23 @@ const products = [
         featured: false
     },
     {
+        id: 168,
+        title: "cell tech ",
+        category: "MUSCLETECH",
+        description: "Premium whey protein with creatine",
+        price: "$58.99",
+        originalPrice: "",
+        image: "168.jpg",
+        specifications: [
+            "10g premium protein blend",
+            "5g creatine monohydrate",
+            "5g glutamine",
+            "Supports muscle growth and recovery",
+           
+        ],
+        featured: false
+    },  
+    {
         id: 69,
         title: " CREATINE CELL TECH ",
         category: "MUSCLETECH",
@@ -2706,7 +2707,7 @@ const categoryTranslations = {
     bsn: "GAT SPORT",
     cellucor: "ULTIMATE NUTRITION",
     gnc: "USN",
-    jym: "MUSCLETECH",
+    jym: "MUSCLEMEDS",
     rsp: "RONNIE COLEMAN",
     bpi: "INSANE LABZ",
     evogen: "ISOPURE",
@@ -3224,7 +3225,7 @@ const dropdownCompaniesList = [
     "GAT SPORT",
     "ULTIMATE NUTRITION",
     "USN",
-    "MUSCLETECH",
+    "MUSCLEMEDS",
     "RONNIE COLEMAN",
     "INSANE LABZ",
     "ISOPURE",
