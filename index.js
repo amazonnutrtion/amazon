@@ -291,6 +291,24 @@ const products = [
         featured: false
     },
 
+     {
+        id: 164,
+        title: "GOLD STANDERD 100% CASEIN ",
+        category: "protein",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "35.10",
+        originalPrice: "",
+        image: "164.jpg",
+        specifications: [
+            "Enhances Blood Flow and Circulation ",
+            "Supports Protein Synthesis for Muscle Growth ",
+            "Boosts Nitric Oxide Production for Better Pumps ",
+            "Promotes Hormone Release for Overall Performance "
+        ],
+        featured: false
+
+    },
+
     {
         id: 4,
         title: "OPTIMUM NUTRION AMINO ",
@@ -402,7 +420,7 @@ const products = [
         title: "PLATINUM HYDROWHEY ",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$105.00",
+        price: "$55.00",
         originalPrice: "",
         image: "139.jpg",
         specifications: [
@@ -420,7 +438,7 @@ const products = [
         title: "PALTINUM HYDROWHEY",
         category: "protein",
         description: "100% pure creatine monohydrate powder",
-        price: "$55.00",
+        price: "$105.00",
         originalPrice: "",
         image: "140.jpg",
         specifications: [
@@ -627,13 +645,13 @@ const products = [
 
 
   {
-        id: 10,
-        title: "L-Arginine",
+        id: 172,
+        title: "CREATINE MONOHYDRATE",
         category: "creatine",
         description: "Branched-chain amino acids in 2:1:1 ratio",
-        price: "35.10",
+        price: "26.10",
         originalPrice: "",
-        image: "s10.jpg",
+        image: "1.jpg",
         specifications: [
             "Enhances Blood Flow and Circulation ",
             "Supports Protein Synthesis for Muscle Growth ",
@@ -844,23 +862,7 @@ const products = [
 
 
      
-  {
-        id: 164,
-        title: "GOLD STANDERD 100% CASEIN ",
-        category: "creatine",
-        description: "Branched-chain amino acids in 2:1:1 ratio",
-        price: "35.10",
-        originalPrice: "",
-        image: "164.jpg",
-        specifications: [
-            "Enhances Blood Flow and Circulation ",
-            "Supports Protein Synthesis for Muscle Growth ",
-            "Boosts Nitric Oxide Production for Better Pumps ",
-            "Promotes Hormone Release for Overall Performance "
-        ],
-        featured: false
-
-    },
+ 
 
      
   {
@@ -870,7 +872,7 @@ const products = [
         description: "Branched-chain amino acids in 2:1:1 ratio",
         price: "48.10",
         originalPrice: "",
-        image: "163.jpg",
+        image: "165.jpg",
         specifications: [
             "Full Clinical & Effective Doses",
             "Complete All-In-One Pre-Workout ",
@@ -889,7 +891,7 @@ const products = [
         description: "Branched-chain amino acids in 2:1:1 ratio",
         price: "112.10",
         originalPrice: "",
-        image: "163.jpg",
+        image: "166.jpg",
         specifications: [
             "Supports Muscle Growth and Recovery  ",
             "High-Quality Protein with Essential Amino Acids  ",
@@ -902,23 +904,7 @@ const products = [
 
     
     // ANIMAL Products
-     {
-        id: 10,
-        title: "L-Arginine",
-        category: "creatine",
-        description: "Branched-chain amino acids in 2:1:1 ratio",
-        price: "35.10",
-        originalPrice: "",
-        image: "s10.jpg",
-        specifications: [
-            "Enhances Blood Flow and Circulation ",
-            "Supports Protein Synthesis for Muscle Growth ",
-            "Boosts Nitric Oxide Production for Better Pumps ",
-            "Promotes Hormone Release for Overall Performance "
-        ],
-        featured: false
-
-    },
+   
     {
         id: 11,
         title: "Animal Pak 44",
@@ -2161,7 +2147,7 @@ const products = [
         title: "KING WHEY ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
-        price: "$69==112.99",
+        price: "$112.99",
         originalPrice: "",
         image: "84.jpg",
         specifications: [
@@ -2404,7 +2390,7 @@ const products = [
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
         price: "32.00",
-        originalPrice: "$49.99",
+        originalPrice: "",
         image: "105.jpg",
         specifications: [
             "Insane Cutz 666 MG",
@@ -2421,7 +2407,7 @@ const products = [
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
         price: "$30.99",
-        originalPrice: "$49.99",
+        originalPrice: "",
         image: "106.jpg",
         specifications: [
             "Insane Cutz 666 MG",
@@ -2493,7 +2479,7 @@ const products = [
         category: "ISOPURE",
         description: "Military-grade pre-workout",
         price: "$59.99",
-        originalPrice: "$69.99",
+        originalPrice: "",
         image: "112.jpg",
         specifications: [
            "25g of Protein ",
@@ -2511,7 +2497,7 @@ const products = [
         category: "ISOPURE",
         description: "Military-grade pre-workout",
         price: "$59.99",
-        originalPrice: "$69.99",
+        originalPrice: "",
         image: "113.jpg",
         specifications: [
               "25g of Protein ",
@@ -2530,7 +2516,7 @@ const products = [
         category: "ISOPURE",
         description: "Military-grade pre-workout",
         price: "$59.99",
-        originalPrice: "$69.99",
+        originalPrice: "",
         image: "114.jpg",
         specifications: [
             "25g of Protein ",
@@ -2548,7 +2534,7 @@ const products = [
         category: "ISOPURE",
         description: "Military-grade pre-workout",
         price: "$59.99",
-        originalPrice: "$69.99",
+        originalPrice: "",
         image: "116.jpg",
         specifications: [
             "25g of Protein ",
@@ -2617,59 +2603,47 @@ const products = [
     // GHOST Products
     {
         id: 1001,
-        title: "LIQUID CARNITINE 3000",
+        title: "SERIOUS MASS + ZING",
         category: "ghost",
         description: "Transparent label protein",
-        price: "$59.99",
-        originalPrice: "$69.99",
+        price: "$89.00",
+        originalPrice: "$99.00",
         image: "1001.jpg",
         specifications: [
-            "Converts Fat into Energy for Enhanced Performance",
-            "Boosts Workout Endurance and Reduces Fatigue",
-            "Preserves Muscle Glycogen for Improved Strength",
-            "Antioxidant Protection for Brain and Muscle Health",
-            "Clinician’s Choice Product"
+           
         ],
         featured: true
     },
     {
         id: 1002,
-        title: "100% WHEY",
+        title: "GOLLD STANDERD 100% ISOLAT + AMINO 2222",
         category: "ghost",
         description: "Fully transparent pre-workout",
-        price: "$49.99",
-        originalPrice: "$59.99",
+        price: "$139.99",
+        originalPrice: "$160.00",
         image: "1002.jpg",
         specifications: [
-            "Supports Muscle Growth and Recovery ",
-            "High-Quality Protein with Essential Amino Acids",
-            "Easily Digestible and Quick Absorption ",
-            "Smooth, Clump-Free Mixability ",
-            "Clinician’s Choice Product"
+          
         ],
         featured: true
     },
     {
         id: 1003,
-        title: "100% WHEY",
+        title: "PLATINUM HYDRO WHEY + CLUTAMIN POWOER ",
         category: "ghost",
         description: "Transparent BCAA formula",
         price: "$34.99",
         originalPrice: "$39.99",
         image: "1003.jpg",
         specifications: [
-            "Supports Muscle Growth and Recovery ",
-            "High-Quality Protein with Essential Amino Acids",
-            "Easily Digestible and Quick Absorption ",
-            "Smooth, Clump-Free Mixability ",
-            "Clinician’s Choice Product"
+
         ],
         featured: true
     },
 
      {
         id: 1004,
-        title: "100% WHEY",
+        title: "OPTI-MEN",
         category: "ghost",
         description: "Transparent BCAA formula",
         price: "$34.99",
@@ -2688,11 +2662,11 @@ const products = [
 
  {
         id: 1005,
-        title: "100% WHEY",
+        title: "GOLD STANDERD 100% WHEY",
         category: "ghost",
         description: "Transparent BCAA formula",
-        price: "$34.99",
-        originalPrice: "$39.99",
+        price: "$82.99",
+        originalPrice: "$86.99",
         image: "1005.jpg",
         specifications: [
             "Supports Muscle Growth and Recovery ",
@@ -2706,11 +2680,11 @@ const products = [
 
  {
         id: 1006,
-        title: "100% WHEY",
+        title: "AMIN.O.ENERGY",
         category: "ghost",
         description: "Transparent BCAA formula",
-        price: "$34.99",
-        originalPrice: "$39.99",
+        price: "$38.99",
+        originalPrice: "$42.99",
         image: "1006.jpg",
         specifications: [
             "Supports Muscle Growth and Recovery ",
