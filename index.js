@@ -8,7 +8,7 @@ const bestSellersData = [
         description: "World's best-selling pre-workout",
         price: "$86.99",
         originalPrice: "$",
-        image: "s1.jpg",
+        image: "ss1.jpg",
         specifications: [
             "24g of high-quality, fast-absorbing premium whey protein powder per serving",
             "5.5g of BCAA in each servings",
@@ -26,7 +26,7 @@ const bestSellersData = [
         description: "Scientifically formulated pre-workout",
         price: "$46.99",
         originalPrice: "",
-        image: "s2.jpg",
+        image: "ss2.jpg",
         specifications: [
             "Made from 100% creatine monohydrate",
             "3g of creatine monohydrate per serving",
@@ -45,7 +45,7 @@ const bestSellersData = [
         description: "100% hydrolyzed whey protein isolate",
         price: "$54.99",
         originalPrice: "",
-        image: "s4.jpg",
+        image: "ss4.jpg",
         specifications: [
             "FULL AMINO ACID SPECTRUM ",
             "320 TABLETS ",
