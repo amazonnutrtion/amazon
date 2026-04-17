@@ -2226,9 +2226,45 @@ const products = [
     },
 
 
+
+       {
+        id: 170,
+        title: "KING CSRB ",
+        category: "RONNIE COLEMAN",
+        description: "Multi-source protein blend",
+        price: "$28.99",
+        originalPrice: "",
+        image: "170.jpg",
+        specifications: [
+            "Electrolyte blend for hydration ",
+            "30G easily digestible carbohydrates ",
+            "Use intra or post workout to replenish glycogen and refuel muscles ",
+            " ",
+
+        ],
+        featured: false
+    },
+       {
+        id: 171,
+        title: "OMEGA-3 ",
+        category: "RONNIE COLEMAN",
+        description: "Multi-source protein blend",
+        price: "$29.99",
+        originalPrice: "",
+        image: "171.jpg",
+        specifications: [
+            "2G FISH OUL ",
+            "680MG OMEGA-3 ",
+            "360MG EPA ",
+            "240 MG DHA ",
+
+        ],
+        featured: false
+    },
+
     {
         id: 96,
-        title: "Asylum Cabinet Creatine",
+        title: "Asylum Cabinet Creati",
         category: "INSANE LABZ",
         description: "Intra-workout carbohydrate formula",
         price: "$74.00",
