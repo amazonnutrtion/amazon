@@ -2612,6 +2612,14 @@ const products = [
         originalPrice: "$99.00",
         image: "1001.jpg",
         specifications: [
+            " OPTIMUM NUTRION SERIOUS MASS ",
+            "Serious mass optimum nutrition ",
+            "W.t 6 LB ",
+            "OPTIMUM NUTRION Zinc magnesium aspartate ",
+            "Zinc magnesium aspartate ",
+            "W.t 180 capsules",
+            "60 cervings"
+            
            
         ],
         featured: true
@@ -2625,6 +2633,12 @@ const products = [
         originalPrice: "$160.00",
         image: "1002.jpg",
         specifications: [
+
+             " OPTIMUM NUTRION GOLLD STANDERD 100% ISOLAT ",
+            "44 serving",
+            "3 eibank ",
+            "OPTIMUM NUTRION  AMINO 2222 ",
+            "33 pills "
           
         ],
         featured: true
@@ -2638,6 +2652,13 @@ const products = [
         originalPrice: "$39.99",
         image: "1003.jpg",
         specifications: [
+             " OPTIMUM NUTRION PLATINUM HYDRO WHEY  ",
+            "Hydro whey optimum nutrition ",
+            "W.t 1.8 LB / 20 cervings  ",
+            "OPTIMUM NUTRION  CLUTAMIN POWOER ",
+            "W.t 300g  ",
+            "58 cervings"
+          
 
         ],
         featured: true
