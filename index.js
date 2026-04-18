@@ -601,7 +601,6 @@ const products = [
         specifications: [
             "24G PROTEIN",
             "Includes key nutrients that contribute to the normal function of the immune system ",
-            " ",
             "Take three tablets daily with food",
             ""
         ],
