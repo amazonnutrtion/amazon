@@ -567,8 +567,7 @@ const products = [
             "Includes key nutrients that contribute to the normal function of the immune system",
             "Formulated with essential vitamins, minerals, and amino acids to help meet the daily nutrient needs of active men ",
             "EXTREME MILK CHOCOLATE FLAVORED",
-            "Take three tablets daily with food
-"
+            "Take three tablets daily with food"
             
         ],
         featured: false
