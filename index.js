@@ -725,14 +725,48 @@ const products = [
         title: "CREATINE MONOHYDRATE",
         category: "creatine",
         description: "Branched-chain amino acids in 2:1:1 ratio",
-        price: "26.10",
+        price: "37.10",
         originalPrice: "",
-        image: "1.jpg",
+        image: "172.jpg",
         specifications: [
             "Enhances Blood Flow and Circulation ",
             "Supports Protein Synthesis for Muscle Growth ",
             "Boosts Nitric Oxide Production for Better Pumps ",
             "Promotes Hormone Release for Overall Performance "
+        ],
+        featured: false
+
+    },
+      {
+        id: 177,
+        title: "LIQUID CARNITINE 3000",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "26.10",
+        originalPrice: "",
+        image: "177.jpg",
+        specifications: [
+            "Converts Fat into Energy for Enhanced Performance ",
+            "Boosts Workout Endurance and Reduces Fatigue ",
+            "Preserves Muscle Glycogen for Improved Strength ",
+            "Clinician’s Choice Product "
+        ],
+        featured: false
+
+    },
+      {
+        id: 178,
+        title: "TRIBULUS 1400",
+        category: "creatine",
+        description: "Branched-chain amino acids in 2:1:1 ratio",
+        price: "39.10",
+        originalPrice: "",
+        image: "178.jpg",
+        specifications: [
+            "Supports Healthy Testosterone Levels  ",
+            "Enhances Sexual Function and Libido ",
+            "Promotes Natural Energy and Vitality ",
+            "Aids in Hormone Balance for Active Males  "
         ],
         featured: false
 
@@ -1095,7 +1129,7 @@ const products = [
         category: "energy",
         description: "Pre-workout supplement for energy and performance",
         price: "$59.99",
-        originalPrice: "$69.99",
+        originalPrice: "",
         image: "16.jpg",
         specifications: [
             "Earn 2X Points Per Every Dollar Spent On Subscriptions",
@@ -1113,7 +1147,7 @@ const products = [
         category: "energy",
         description: "Pre-workout supplement for energy and performance",
         price: "$59.99",
-        originalPrice: "$69.99",
+        originalPrice: "",
         image: "169.jpg",
         specifications: [
             "Earn 2X Points Per Every Dollar Spent On Subscriptions",
@@ -1131,7 +1165,7 @@ const products = [
         category: "amino",
         description: "100% hydrolyzed whey protein isolate",
         price: "$74.99",
-        originalPrice: "$84.99",
+        originalPrice: "",
         image: "s17.jpg",
         specifications: [
             "Protein 25g",
@@ -1292,7 +1326,7 @@ const products = [
         category: "MUSCLEMEDS",
         description: "Premium whey protein with creatine",
         price: "$57.99",
-        originalPrice: "$94.99",
+        originalPrice: "",
         image: "s24.jpg",
         specifications: [
             "30g premium protein blend",
