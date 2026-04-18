@@ -536,6 +536,80 @@ const products = [
         featured: false
     },
 
+
+     {
+        id: 173,
+        title: "OPT-WOMEN 60  ",
+        category: "protein",
+        description: "100% pure creatine monohydrate powder",
+        price: "$42.99",
+        originalPrice: "",
+        image: "173.jpg",
+        specifications: [
+            "Supports muscle function and helps reduce fatigue ",
+            "Boost immune system function ",
+            "Formulated with essential vitamins ",
+          "  EXTREME MILK CHOCOLATE FLAVORED ",
+            "Take three tabs daily with food for optimal results"
+        ],
+        featured: false
+    },
+
+     {
+        id: 174,
+        title: "OPTI-MEN 150 ",
+        category: "protein",
+        description: "100% pure creatine monohydrate powder",
+        price: "$54.99",
+        originalPrice: "",
+        image: "174.jpg",
+        specifications: [
+            "Contributes to normal muscle function and helps reduce tiredness and fatigue ",
+            "Includes key nutrients that contribute to the normal function of the immune system ",
+            "Formulated with essential vitamins ",
+            "EXTREME MILK CHOCOLATE FLAVORED ",
+            "Take three tablets daily with food"
+        ],
+        featured: false
+    },
+
+
+     {
+        id: 175,
+        title: "OPTI-WOMEN 120 ",
+        category: "protein",
+        description: "100% pure creatine monohydrate powder",
+        price: "$54.00",
+        originalPrice: "",
+        image: "175.jpg",
+        specifications: [
+            "Supports muscle function and helps reduce fatigue ",
+            "Boost immune system function ",
+            "Formulated with essential vitamins ",
+            "EXTREME MILK CHOCOLATE FLAVORED ",
+            "Take three tabs daily with food for optimal results"
+        ],
+        featured: false
+    },
+
+
+     {
+        id: 176,
+        title: "OPTI-MEN 90 ",
+        category: "protein",
+        description: "100% pure creatine monohydrate powder",
+        price: "$45.99",
+        originalPrice: "",
+        image: "176.jpg",
+        specifications: [
+            "24G PROTEIN ",
+            "Includes key nutrients that contribute to the normal function of the immune system ",
+            "160 SERVINGS ",
+            "Take three tablets daily with food",
+            ""
+        ],
+        featured: false
+    },
        
     
 
