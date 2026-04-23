@@ -2744,9 +2744,9 @@ const products = [
 
              " OPTIMUM NUTRION GOLLD STANDERD 100% ISOLAT ",
             "44 serving",
-            "3 eibank ",
+            "3 Lb ",
             "OPTIMUM NUTRION  AMINO 2222 ",
-            "33 pills "
+            " 320 tb "
           
         ],
         featured: true
